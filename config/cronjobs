@@ -1,0 +1,1 @@
+*/10 * * * * php /bin/updater.php >> /test_file 2>&1
